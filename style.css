@@ -14,15 +14,17 @@ header {
     justify-content: space-around;
     align-items: center;
 }
-.Fh1{
+
+.Fh1 {
     border: 1px solid #fff;
     padding: 5px;
-    background-color: #000;
+    background-color: #706d6d;
 }
+
 header h1 a {
     font-size: 20px;
     color: rgb(252, 46, 46);
-    
+
 }
 
 header nav {
@@ -48,7 +50,7 @@ body {
     overflow-x: hidden;
 }
 
-.indexphoto img{
+.indexphoto img {
     position: absolute;
     top: 0;
     left: 0;
@@ -197,6 +199,8 @@ input[type="submit"] {
 
 .homee {
     color: #ff0000;
+    background-color: #706d6d;
+    border: 1px solid #fff;
 }
 
 .alcohol {
@@ -258,7 +262,8 @@ input[type="submit"] {
     color: #0c0101;
     letter-spacing: 2px;
 }
-.ordernowhome{
+
+.ordernowhome {
     width: 150px;
     height: 50px;
     top: -205px;
@@ -270,10 +275,12 @@ input[type="submit"] {
     left: 1000px;
     cursor: pointer;
 }
-.ordernowhome a{
-    color:rgb(32, 32, 32);
+
+.ordernowhome a {
+    color: rgb(32, 32, 32);
 }
-.nextpage{
+
+.nextpage {
     width: 50px;
     height: 50px;
     position: fixed;
@@ -281,10 +288,12 @@ input[type="submit"] {
     right: 0;
     margin-right: 30px;
 }
-.nextpage img{
+
+.nextpage img {
     width: 100%;
 }
-.backpage{
+
+.backpage {
     width: 50px;
     height: 50px;
     position: fixed;
@@ -292,61 +301,72 @@ input[type="submit"] {
     left: 0;
     margin-left: 30px;
 }
-.backpage img{
+
+.backpage img {
     width: 100%;
 }
-.cocteil4{
+
+.cocteil4 {
     width: 500px;
     height: 300px;
     position: relative;
     left: 700px;
     top: 50px;
 }
-.cocteil4 img{
+
+.cocteil4 img {
     width: 50%;
     margin-left: 105px;
 }
-.cocteil4text{
+
+.cocteil4text {
     width: 250px;
     margin-left: 110px;
     color: #0c0101;
     letter-spacing: 2px;
 }
-.cocteil3{
+
+.cocteil3 {
     width: 500px;
     height: 300px;
     position: relative;
     top: -260px;
     left: 50px;
 }
-.cocteil3 img{
+
+.cocteil3 img {
     width: 50%;
     margin-left: 100px;
 }
-.cocteil3text{
+
+.cocteil3text {
     width: 250px;
     margin-left: 110px;
     color: #0c0101;
     letter-spacing: 2px;
 }
-.cocteil5{
+
+.cocteil5 {
     width: 500px;
     height: 300px;
     position: relative;
     top: -400px;
 }
-.cocteil5 img{
+
+.cocteil5 img {
     width: 50%;
     margin-left: 475px;
 }
-.cocteil5text{
+
+.cocteil5text {
     width: 250px;
     height: 150px;
     margin-left: 480px;
     color: #0c0101;
     letter-spacing: 2px;
 }
-.ordernow{
+
+.ordernow {
     width: 150px;
     height: 50px;
     top: -205px;
@@ -358,7 +378,8 @@ input[type="submit"] {
     left: 1000px;
     cursor: pointer;
 }
-.ordernow a{
+
+.ordernow a {
     color: rgb(32, 32, 32);
 }
 
@@ -366,7 +387,7 @@ input[type="submit"] {
 
 
 /*---ABOUT---*/
-.aboutphoto img{
+.aboutphoto img {
     position: absolute;
     top: 0;
     left: 0;
@@ -374,7 +395,8 @@ input[type="submit"] {
     width: 100%;
     height: 100vh;
 }
-.aboutnext{
+
+.aboutnext {
     width: 50px;
     height: 50px;
     position: fixed;
@@ -382,7 +404,8 @@ input[type="submit"] {
     right: 0;
     margin-right: 30px;
 }
-.aboutback{
+
+.aboutback {
     width: 50px;
     height: 50px;
     position: fixed;
@@ -390,20 +413,25 @@ input[type="submit"] {
     left: 0;
     margin-left: 30px;
 }
-.aboutback img{
+
+.aboutback img {
     width: 100%;
 }
-.aboutnext img{
+
+.aboutnext img {
     width: 100%;
 }
+
 .meore {
     color: #ff0000;
+    border: 1px solid #fff;
+    background-color: #706d6d;
 }
 
 .order {
     width: 150px;
     height: 50px;
-    top: 500px;
+    top: 600px;
     text-align: center;
     background-color: #ff7b00;
     border-radius: 20px;
@@ -454,14 +482,16 @@ input[type="submit"] {
     margin-left: 300px;
     margin-top: 20px;
 }
-.nextshekveta2{
+
+.nextshekveta2 {
     width: 400px;
     height: 200px;
     position: relative;
     left: 650px;
     top: -150px;
 }
-.nextshekveta2 img{
+
+.nextshekveta2 img {
     width: 400px;
     height: 330px;
 }
@@ -540,7 +570,7 @@ input[type="submit"] {
 /*---purchase---*/
 .purchase {
     background-image: url(img/about.jpg);
-    background-repeat: no-repeat;
+    background-repeat: repeat;
     background-size: 100%;
 }
 
@@ -577,124 +607,71 @@ input[type="submit"] {
     left: 20px;
 }
 
-.foter {
-    margin-top: -135px;
-}
-
 
 
 /*---contact---*/
 .mesame {
     color: #ff0000;
+    border: 1px solid #fff;
+    background-color: #706d6d;
 }
-.contactphoto img{
+
+.contactphoto img {
     z-index: -1;
 }
-.contactfooter{
-    background-color:rgb(32, 32, 32);
+
+.contactfooter {
+    background-color: rgb(32, 32, 32);
     margin-top: -150px;
 }
 
 
 
 /*---register---*/
-.register{
+.register {
     color: #ff0000;
+    
+}
+.rregister{
+    border: 1px solid #fff;
+    background-color: #706d6d;
 }
 
 
 
 /*---Club Photo---*/
-.Clubphoto{
+.Clubphoto {
     background-image: url(img/card.jpg);
 }
-.contactfoto{
+
+.contactfoto {
     width: 320px;
     height: 240px;
 }
-.contactfoto img{
+
+.contactfoto img {
     width: 100%;
     margin-top: 110px;
     margin-left: 70px;
 }
-.contactfotomeore{
+
+.contactfotomeore {
     width: 350px;
     height: 300px;
 }
-.contactfotomeore img{
+
+.contactfotomeore img {
     width: 100%;
     margin-left: 440px;
 }
-.contactfotomesame{
+
+.contactfotomesame {
     width: 350px;
     height: 300px;
 }
-.contactfotomesame img{
+
+.contactfotomesame img {
     width: 100%;
     margin-top: -180px;
     margin-left: 840px;
-}
-
-
-
-/*---addressfooter---*/
-.addresscolor{
-    color: #ff0000;
-}
-.addressbk{
-    background-color:rgb(255, 210, 84);
-}
-.addressfooter{
-    margin-top: -275px;
-}
-.one1{
-    display: flex;
-    margin-left: 70px;
-}
-.one2{
-    width: 30%;
-    margin-top: 110px;
-}
-.one3{
-    font-size: 46px;
-    font-weight: bolder;
-}
-.one4{
-    font-size: 46px;
-    font-weight: bolder;
-}
-.one5{
-    font-size: 20px;
-    color: gray;
-    margin-top: 50px;
-}
-.one6{
-    margin-top: 130px;
-    margin-left: 120px;
-}
-.one6 p{
-    font-size: 20px;
-    color: gray;
-    padding-top: 40px;
-}
-.one6 a{
-    font-size: 20px;
-    color: black;
-    font-weight: bolder;
-}
-.one10{
-    margin-top: 220px;
-    margin-left: 140px;
-    margin-right: 160px;
-}
-.one11{
-    font-size: 20px;
-    font-weight: bolder;
-    background-color: #5c4812;
-    border-radius: 60px;
-    padding: 20px 30px;
-    text-align: center;
-    width: 180px;   
-    margin-top: 295px;
-    cursor: pointer;
 }
